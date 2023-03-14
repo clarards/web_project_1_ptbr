@@ -1,0 +1,7 @@
+.card {
+  margin: 60px auto 60px auto;
+  width: 920px;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 100px;
+}

@@ -1,0 +1,12 @@
+.column-link {
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #fff;
+  display: flex;
+}
+
+.column-link:hover{
+  text-decoration: underline;
+}

@@ -1,0 +1,6 @@
+.two-collumns {
+  width: 80%;
+  margin: 100px auto 100px auto;
+  display: flex;
+  justify-content: space-between;
+}

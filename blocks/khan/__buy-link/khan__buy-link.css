@@ -1,0 +1,22 @@
+.buy-link{
+color: #2f80ED;
+text-decoration: none;
+line-height: 42px;
+font-size: 30px;
+position: relative;
+right: 200px;
+top: 100px;
+font-weight: normal;
+display: flex;
+justify-content: flex-end;
+}
+
+.buy-link:hover{
+  text-decoration: underline;
+}
+
+
+
+
+
+

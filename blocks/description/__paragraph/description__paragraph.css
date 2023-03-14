@@ -1,0 +1,12 @@
+.two-collumns__paragraph {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.span-accent {
+  font-weight: bold;
+  line-height: 34px;
+  font-size: 24px;
+}
