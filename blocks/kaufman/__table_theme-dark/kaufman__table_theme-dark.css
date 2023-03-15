@@ -2,7 +2,7 @@
   background-color: #000;
 }
 
-.table__cell_theme-dark {
+.table__cell--theme-dark {
   width: 200px;
   color:#fff;
   margin-right: 0;
